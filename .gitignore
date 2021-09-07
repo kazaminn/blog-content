@@ -1,0 +1,9 @@
+# local files
+.DS_Store
+.vscode/
+# local packages
+package.json
+package-lock.json
+node_modules/
+# draft
+draft/
